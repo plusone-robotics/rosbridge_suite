@@ -2,6 +2,11 @@
 Changelog for package rosbridge_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Autobahn WebSocket server (`#426 <https://github.com/RobotWebTools/rosbridge_suite/issues/426>`_)
+* Contributors: Matt Vollrath
+
 0.11.3 (2019-08-07)
 -------------------
 * Fixes `#418 <https://github.com/RobotWebTools/rosbridge_suite/issues/418>`_: WebSocketClosedError Spam (`#423 <https://github.com/RobotWebTools/rosbridge_suite/issues/423>`_)
