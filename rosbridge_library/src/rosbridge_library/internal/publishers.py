@@ -320,8 +320,8 @@ class PublisherManager():
 
     def _unregister_impl(self, topic):
         if not self._publishers[topic].has_clients():
-            #self._publishers[topic].unregister()
-            #del self._publishers[topic]
+            # Edited this method as per hack obtained from
+            # https://github.com/RobotWebTools/rosbridge_suite/issues/138#issuecomment-60700947
             pass
         del self.unregister_timers[topic]
 
