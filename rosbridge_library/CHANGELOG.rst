@@ -2,8 +2,8 @@
 Changelog for package rosbridge_library
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1000.11.4 (2019-10-03)
+----------------------
 * hack fix for rosbridge unregistering bug `#1 <https://github.com/plusone-robotics/rosbridge_suite/issues/1>`_
 * Contributors: Abhijit Majumdar, Isaac I.Y. Saito
 

@@ -2,8 +2,8 @@
 Changelog for package rosbridge_server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1000.11.4 (2019-10-03)
+----------------------
 * Autobahn WebSocket server (`#426 <https://github.com/RobotWebTools/rosbridge_suite/issues/426>`_)
 * Contributors: Matt Vollrath
 
